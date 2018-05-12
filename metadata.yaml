@@ -1,5 +1,8 @@
 _repo: More-Fables_11930
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ade, George
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3917
     wikipedia: http://en.wikipedia.org/wiki/George_Ade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11930#More-Fables
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
